@@ -1,0 +1,4 @@
+ToolSet: 15.0 (local)@D:\VVVisual Studio
+Options: msvc.arch=amd64
+
+Options:
